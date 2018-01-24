@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whois</string>
+
+    <string name="search">Search</string>
+    <string name="input_host">Input host name</string>
+
+</resources>
